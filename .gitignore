@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Lokale Downloads und Eingabelisten (keine Projektquellen)
+downloads/
+download-archive.txt
+links.txt
